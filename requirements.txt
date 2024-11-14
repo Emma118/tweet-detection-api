@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+gensim
+imbalanced-learn
+scikit-learn
+matplotlib
+flask
